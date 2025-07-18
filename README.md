@@ -1,8 +1,5 @@
 # LAPDCrimeAnalysis
 
-### Dated:
-Boston University, Fall 2023
-
 ### Description:
 **DATASET:**
 
@@ -16,11 +13,6 @@ This code is written in PySpark and uses different libraries of Python (like Pan
 3. Exploratory Data Analysis
 4. Data Analysis based on Business Problems
 5. Machine Learning Models (Random Forest Regressor and Classifier)
-
-**TABLEAU DASHBOARDS:**
-
-Here is the link to the Tableau Dashboards made for the submission: [Tableau Dashboard](https://public.tableau.com/app/profile/vaidehi.shah2241/viz/cs777_time_difference/LACrimeAnalytics)
-
 
 ### Achievements:
 ● Orchestrated the integration of LA crime dataset with PostgreSQL and Tableau, facilitating dynamic and tailored visualizations for key business questions, including demographic-based insights and location-based hotspot identification.
